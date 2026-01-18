@@ -131,6 +131,11 @@ dataset/
     ├── img1.jpg
     ├── img2.jpg
     └── img3.jpg
+## 📸 Output Screenshot
+
+<p align="center">
+  <img src="output/result.png" alt="Face Detection Output" width="700">
+</p>
 
 📜 Disclaimer
 
