@@ -79,6 +79,12 @@ FACEDetection/
 > ⚠️ Python 3.13 is **not recommended** for OpenCV face recognition.
 
 ---
+## 📸 Output Screenshot
+
+<p align="center">
+  <img src="output/result.png" alt="Face Detection Output" width="700">
+</p>
+
 
 ## 📦 Installation
 
@@ -131,12 +137,12 @@ dataset/
     ├── img1.jpg
     ├── img2.jpg
     └── img3.jpg
-## 📸 Output Screenshot
-
-![Face Detection Output](output/output_result.png)
 
 
 📜 Disclaimer
 
 This project is developed for educational and learning purposes only.
 </div> 
+
+## 📜 License
+This project is licensed under the MIT License.
